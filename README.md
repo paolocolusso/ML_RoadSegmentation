@@ -1,6 +1,7 @@
 # ML_RoadSegmentation
 
-### Machine Learning CS-433: Project 2 - Road Segmentation
+Readme for the Machine Learning CS-433: Project 2 - Road Segmentation
+
 ### Group: Diego Fiori, Paolo Colusso, Valerio Volpe
 ### CrowdAI team name: LaVolpeilFioreEilColosso
 
