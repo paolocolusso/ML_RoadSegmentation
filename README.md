@@ -31,4 +31,5 @@ The files created and the functions developed are presented in the following sec
 
 ## References
 The main reference for neural nets was the course available [here](https://fleuret.org/ee559-2018/dlc/).
+
 For statistical learning we consuled James, Witten, Hastie, Tibshirani, *Introduction to Statistical Learning*, see [details](https://www-bcf.usc.edu/~gareth/ISL/).
