@@ -18,10 +18,6 @@ data/training/
     /test_set_images/
 ```
 
-The files are organised based on 
-+ the process followed to implement the models;
-+ the machine learning algorithms being applied.
-
 The files created and the functions developed are presented in the following sections:
 
 * [Preprocessing](#prepr)
