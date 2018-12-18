@@ -22,11 +22,11 @@ The files created and the functions developed are presented in the following sec
 * [Post Processing](#pp)
 
 
-# <a name="prepr"></a>Preprocessing
-# <a name="logistic"></a>Logistic Regression
-# <a name="ridge"></a>Ridge Regression
-# <a name="cnn"></a>Neural Nets
-# <a name="pp"></a>Postprocessing
+### <a name="prepr"></a>Preprocessing
+### <a name="logistic"></a>Logistic Regression
+### <a name="ridge"></a>Ridge Regression
+### <a name="cnn"></a>Neural Nets
+### <a name="pp"></a>Postprocessing
 
 
 ## References
