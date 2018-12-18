@@ -2,7 +2,7 @@
 
 README for the Machine Learning CS-433: Project 2 - Road Segmentation
 
-Group members: 
+Group: 
 - Diego Fiori
 - Paolo Colusso 
 - Valerio Volpe
