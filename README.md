@@ -1,6 +1,6 @@
 # ML_RoadSegmentation
 
-Readme for the Machine Learning CS-433: Project 2 - Road Segmentation
+README for the Machine Learning CS-433: Project 2 - Road Segmentation
 
 Group members: 
 - Diego Fiori
@@ -8,6 +8,15 @@ Group members:
 - Valerio Volpe
 
 CrowdAI team name: LaVolpeilFioreEilColosso
+
+### Architecture
+
+A data folder with the following structure must be created:
+
+```
+data/training/
+    /test_set_images/
+```
 
 The files are organised based on 
 + the process followed to implement the models;
