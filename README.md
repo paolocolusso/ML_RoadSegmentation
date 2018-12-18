@@ -1,5 +1,8 @@
 # ML_RoadSegmentation
 
-link to the deep learning course
+### Machine Learning CS-433: Project 2 - Road Segmentation
+### Group: Diego Fiori, Paolo Colusso, Valerio Volpe
+### CrowdAI team name: LaVolpeilFioreEilColosso
 
-https://fleuret.org/ee559-2018/dlc/
+## References
+The main reference for neural nets was the course available [here](https://fleuret.org/ee559-2018/dlc/):
