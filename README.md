@@ -20,13 +20,14 @@ data/training/
 
 The files created and the functions developed are presented in the following sections:
 
+* [Helpers](#helpers)
 * [Preprocessing](#prepr)
 * [Logistic Regression](#logistic)
 * [Ridge Regression](#ridge)
 * [Neural Nets](#cnn)
 * [Post Processing](#pp)
 
-
+### <a name="helpers"></a>Helpers
 ### <a name="prepr"></a>Preprocessing
 ### <a name="logistic"></a>Logistic Regression
 ### <a name="ridge"></a>Ridge Regression
